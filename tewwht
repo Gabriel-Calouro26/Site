@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <fieldset class="fundo">
+        <div class="letras"><h1>Cadastro</h1></div>
+      </fieldset>
+      <fieldset>
+        <form>
+          <br>
+          *Nome<br><input type="text">
+        </form>
+      </fieldset>
+  </body>
+</html>
